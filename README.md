@@ -1,6 +1,6 @@
 # unity-game-thing
 
-after you downloaded it (theres a lot of files) extract it and hit 2d platformer mark 2.exe(edited)
+after you downloaded it (theres a lot of files) extract it and hit 2d platformer mark 2.exe
 
 it should (maybe, hopefully) run, and you can play it, (wasd or arrows keys to move, space to jump)
 
